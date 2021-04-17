@@ -1,0 +1,52 @@
+.col{
+  background-color:rgb(221, 206, 206);
+  border-radius: 10px;
+  height: 30vh;
+  
+  margin: 30px;
+}
+.content
+{
+  font-weight:bold ;
+  font-size: 25px;
+  padding-top: 30px;
+}
+.img1
+{
+  margin-left: 110px;
+}
+.img2
+{
+  margin-left: 180px;
+}
+.img3
+{
+  margin-left: 100px;
+}
+form{
+  padding-left: 50px;
+}
+th{
+  text-align: center;
+}
+td
+{
+  text-align: center;
+}
+.Pagination
+{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.borde
+{
+  border:gray 3px solid
+}
+form
+{
+  margin-top: 10px;
+}
+.b{padding-top: 50px;
+  text-align: center;
+font-size: large;}
